@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Upload Files In Folders</string>
+    <string name="create_folder">Create New Folder</string>
+    <string name="folder_names">%s</string>
+    <string name="upload">Upload File</string>
+</resources>
